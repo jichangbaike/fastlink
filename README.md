@@ -10,7 +10,7 @@ FastLink节点命名风格相对较早期，推测为早期命名体系沿用至
 >
 > ⚠️ 本文档仅为信息汇总，不构成任何法律、购买或投资建议。
 > 
-> 📅 文档更新于 **2026-04-24**，若官方调整套餐或线路信息，请以官网为准。  
+> 📅 文档更新于 **2026-06-19**，若官方调整套餐或线路信息，请以官网为准。  
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -160,11 +160,11 @@ FastLink 采用自研客户端，不支持第三方客户端：
 
 - **Windows 客户端**  
   - 适用于 Win/10/11 操作系统
-  - [Windows 客户端](https://dl.pbb.dexi009.com/apps/fl/flapp.exe)
- 
+  - [Windows 客户端](https://app.pbbapi.baifeng88.com/apps/fl/flapp-lite.exe)
+
 - **macOS 客户端**  
   - 支持 Intel 及 Apple Silicon (M1/M2/M3) 芯片 
-  - [macOS 客户端](https://dl.pbb.dexi009.com/apps/fl/flapp.dmg)
+  - [macOS 客户端](https://app.pbbapi.baifeng88.com/apps/fl/flapp-lite.pkg)
 
 
 - **iOS / iPadOS 客户端**  
@@ -175,11 +175,11 @@ FastLink 采用自研客户端，不支持第三方客户端：
 
 - **Android 客户端**  
   - 支持安卓手机、平板及智能电视
-  - [Android 客户端](https://dl.pbb.dexi009.com/apps/fl/flapp.apk)
+  - [Android 客户端](https://app.pbbapi.baifeng88.com/apps/fl/flapp-lite.apk)
 
 - **Linux 客户端**
   - 最低支持 Ubuntu 22.04+ Debian 12+ Fedora 36+
-  - [Linux 客户端](https://dl.pbb.dexi009.com/apps/fl/linux.zip)
+  - [Linux 客户端](https://app.pbbapi.baifeng88.com/apps/fl/flapp-linux-lite.zip)
 
 > 建议优先使用你长期熟悉的客户端，以降低配置成本。
 
@@ -234,5 +234,5 @@ FastLink 采用自研客户端，不支持第三方客户端：
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-04-24`
-- **Version:** `v1.0`
+- **Last Updated:** `2026-06-19`
+- **Version:** `v1.1`
